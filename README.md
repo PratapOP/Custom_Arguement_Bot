@@ -16,7 +16,7 @@ ArgOS Shell is an interactive command-line interface that provides various utili
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ArgOS-Shell.git
+   git clone https://github.com/PratapOP/Custom_Arguement_Bot
    ```
 2. Navigate to the project directory:
    ```bash
